@@ -7,6 +7,7 @@ Touch sensor
 Photodiode
 Neopixel Ring WS2812
 10k Ohm Resistor
+
 **Software/Libraries Used:**
 Arduino IDE 2.0.0
 Grove LCD library
